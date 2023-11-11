@@ -1,0 +1,36 @@
+a {
+    margin-left: 60px;
+    color:black;
+}
+
+body{
+    background-color: blue;
+    color:black;
+}
+
+img {
+    border-radius: 5%;
+  }
+
+th{
+    color: red;
+} 
+
+td{
+    color: yellow;
+}
+
+input{
+    height: 30px;
+    width: 650px;
+    font-size: 20px;
+}
+
+textarea{
+    width: 650px;
+}
+
+select{
+    color: red;
+    height: 30px;
+}
